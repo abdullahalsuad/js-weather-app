@@ -1,4 +1,2 @@
-## Live Server :- 
-## Code :-  https://github.com/abdullahalsuad/pokemon
-
+## Live Server :- weather-all-js.netlify.app/
 ![alt text](Capture.png)
